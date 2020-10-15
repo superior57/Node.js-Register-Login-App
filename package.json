@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/FSojitra/Node.js-Register-Login-App/issues"
   },
-  "homepage": "https://github.com/FSojitra/Node.js-Register-Login-App#readme"
+  "homepage": "https://github.com/FSojitra/Node.js-Register-Login-App#readme",
+  "engines": {
+    "node": "14.50"
+  }
 }
